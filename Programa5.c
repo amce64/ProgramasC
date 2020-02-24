@@ -1,4 +1,4 @@
-/* Programa C que llama a una función y muestra un mensaje desde la función */
+/*   */
 
 #include <stdio.h>
 
